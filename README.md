@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
-- ⚡My Other's Interests **were actually to Gather Information,Stats and Data Regarding Market Trends,Analytics,Financial Studies,Marketing,gathering information about how bussinesses model actually works and Grow.**
+- ⚡My Other's Interests **were actually to Gather Information,Stats and Data Regarding Market Trends,Analytics,Financial Studies,Marketing,gathering information about how IT and Non-IT bussinesses and Start-ups models actually works and Grow.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
