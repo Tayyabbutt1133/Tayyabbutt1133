@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬You can Ask me about **Mern Stack Development**
+- 💬You can Ask me about ** React Development**
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
