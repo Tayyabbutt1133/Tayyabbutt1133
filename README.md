@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬You can Ask me about ** React Development**
+- 💬You can Ask me about **React Development**
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
-- ⚡My Other's Interests **were actually to Gather Information,Stats and Data Regarding Market Trends,Analytics,Financial Studies,Marketing,gathering information about how IT and Non-IT bussinesses and Start-ups models actually works and Grow.**
+- ⚡My Other's Interests **were actually to Gather Information, Stats and Data Regarding Market Trends, Analytics,Financial Studies, Marketing,gathering information about how IT and Non-IT businesses and Start-ups models actually work and Grow.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
