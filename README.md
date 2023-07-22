@@ -5,15 +5,15 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473zt2p79ue7fzddt8a3uuvqetycs1w1mzjc32m29j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
-- 🔭 I’m currently working on **Building E-commerce Platform**
+- 🔭 I’m currently Doing an internship in **Web Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬You can Ask me about **MERN-Stack Development**
+- 💬You can Ask me about **C++ Programming**
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
-- ⚡My Other's Interests **were actually to Gather Information, Stats and Data Regarding Market Trends, Analytics,Financial Studies, Marketing,gathering information about how IT and Non-IT businesses and Start-ups models actually work and Grow.**
+- ⚡My Other's Interests **were actually to Gather Information, Stats, and Data Regarding Market Trends, Analytics, Financial Studies, Marketing, gathering information about how IT and Non-IT businesses and Start-ups models actually work and Grow.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
