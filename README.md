@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
-- ⚡My Other's Interests **were actually to Gather Information, Stats, and Data Regarding Market Trends, Analytics, Financial Studies, Marketing, gathering information about how IT and Non-IT businesses and Start-ups models actually work and Grow.**
+- ⚡My Other's Interests **As a computer science student, Programming excites me a lot! I love solving problems creatively and staying up-to-date with the latest tech.
+I'm fascinated by global economics, finance, and data analysis. Making informed decisions is key!
+Interacting with diverse perspectives fuels my growth, also my interest is always in startups and business models too. Investing in productive assets and its impact on the economy intrigues me.
+I aim to make a meaningful contribution to the world of computer science and beyond.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
