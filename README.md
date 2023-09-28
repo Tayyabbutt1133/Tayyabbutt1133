@@ -1,13 +1,13 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 <h1 align="center">Hi 👋, I'm Tayyeb Shahzad Butt</h1>
 <h3 align="center">"Code today, build tomorrow: A software engineer with an entrepreneurial vision!" 🚀💻🌟</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473zt2p79ue7fzddt8a3uuvqetycs1w1mzjc32m29j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
-- 🔭 I’m currently Doing an internship in **Web Development**
+- 🔭 I’m currently Onto the journey of learning **MERN Stack**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 Other Programming Interests were to learn **Devops**
 
 - 💬You can Ask me about **C++ Programming**
 
