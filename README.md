@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473zt2p79ue7fzddt8a3uuvqetycs1w1mzjc32m29j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
-- 🔭 I’m currently Onto the journey of learning **MERN Stack**
+- 🔭 I’m currently onto the journey of learning **MERN Stack**
 
-- 🌱 Other Programming Interests were to learn **Devops**
+- 🌱 Other Programming Interest is to learn **Devops** as well.
 
 - 💬You can Ask me about **C++ Programming**
 
