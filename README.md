@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 <h1 align="center">Hi 👋, I'm Tayyeb Shahzad Butt</h1>
 <h3 align="center">"Code today, build tomorrow: A software engineer with an entrepreneurial vision!" 🚀💻🌟</h3>
 
