@@ -23,7 +23,6 @@ I aim to make a meaningful contribution to the world of computer science and bey
 <a href="https://fb.com/https://www.facebook.com/tayyab.shahzad.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tayyab.shahzad.75641" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/tayy.ab_butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tayy.ab_butt/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@tayyeb583/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tayyeb583/videos" height="30" width="40" /></a>
-<a href="https://tayyebbutt.substack.com/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/substack.svg" alt="" height="30" width="40" /></a>
 <a href="https://medium.com/@tayyebbutt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"alt="" height="30" width="40" /></a>
 </p>
 
