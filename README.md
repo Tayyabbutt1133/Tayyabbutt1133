@@ -13,9 +13,8 @@
 
 - 📫 How to reach me **tayyebbutt966@gmail.com**
 
-- ⚡My Other's Interests **As a computer science student, Programming excites me a lot! I love solving problems creatively and staying up-to-date with the latest tech.
-I'm fascinated by global economics, finance, and data analysis. Making informed decisions is key!
-Interacting with diverse perspectives fuels my growth, also my interest is always in startups and business models too. Investing in productive assets and its impact on the economy intrigues me.
+- Hey there! I'm Tayyeb Shahzad, currently deep into my Bachelor's in Computer Science. I love writing code and solving problems, and I'm all about staying up-to-date with the ever-changing tech scene.But, you know what's also cool? Figuring out how businesses work, especially startups, and understanding the money side of things – like investments and assets. Besides coding, I'm really into exploring online side hustles and other ways to make things happen on the business front.
+I'm not just about the code; I'm all about connecting the dots between tech and business. Outside of that, I'm passionate about contributing value to communities, interacting with people, and socializing. If you're into that too, let's connect and swap ideas on this exciting mashup of tech, business, and community building!
 I aim to make a meaningful contribution to the world of computer science and beyond.**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +23,8 @@ I aim to make a meaningful contribution to the world of computer science and bey
 <a href="https://fb.com/https://www.facebook.com/tayyab.shahzad.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tayyab.shahzad.75641" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/tayy.ab_butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tayy.ab_butt/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@tayyeb583/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tayyeb583/videos" height="30" width="40" /></a>
-<a href="https://discord.gg/butt_sahaab#8588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="butt_sahaab#8588" height="30" width="40" /></a>
+<a href="https://tayyebbutt.substack.com/" target="blank"><img align="center" alt="" height="30" width="40" /></a>
+<a href="https://medium.com/@tayyebbutt1" target="blank"><img align="center" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
