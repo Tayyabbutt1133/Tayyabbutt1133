@@ -1,36 +1,10 @@
-![](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
-<h1 align="center">Hi 👋, I'm Tayyeb Shahzad Butt</h1>
-<h3 align="center">"Code today, build tomorrow: A software engineer with an entrepreneurial vision!" 🚀💻🌟</h3>
+Hello! Let's have a quick intro of mine: 
+I'm Tayyeb Shahzad, currently immersed in my Bachelor's in Computer Science,Crafting Digital Experiences, Tech Enthusiast, Software Engineer, AI & Emerging Technologies Explorer, DevOps, Blockchain, Web3.0, "Entrepreneurial Visionary"💡, "Digital Nomad in Making"✈️
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473zt2p79ue7fzddt8a3uuvqetycs1w1mzjc32m29j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
+Beyond the lines of code, I'm equally fascinated by the intricacies of business operations, especially in the startup realm. Unraveling the world of investments, assets, and the financial side of things intrigues me.
 
-- 🔭 I’m currently Working on **Reactjs,Nextjs,Nodejs**
+While coding fuels my passion, I also explore the entrepreneurial realm through online side hustles and innovative business strategies. I believe in the synergy of technology and business, constantly connecting the dots between the two.
 
-- 🌱 Would love to learn and work on **AI/ML|Python|Blockchain Development** as well.
+My tech arsenal includes JavaScript, React.js, Next.js, and Node.js, forming the foundation of my coding endeavors. I'm not just about the code; I'm driven by the prospect of creating a harmonious blend between technology and business.
 
-- 💬You can Ask me **Anything through email or social media handles.**
-
-- 📫 How to reach me **tayyebbutt966@gmail.com**
-
-- Hey there! I'm Tayyeb Shahzad, currently deep into my Bachelor's in Computer Science. I love writing code and solving problems, and I'm all about staying up-to-date with the ever-changing tech scene.But, you know what's also cool? Figuring out how businesses work, especially startups, and understanding the money side of things – like investments and assets. Besides coding, I'm really into exploring online side hustles and other ways to make things happen on the business front.
-I'm not just about the code; I'm all about connecting the dots between tech and business. Outside of that, I'm passionate about contributing value to communities, interacting with people, and socializing. If you're into that too, let's connect and swap ideas on this exciting mashup of tech, business, and community building!
-I aim to make a meaningful contribution to the world of computer science and beyond.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tayyeb-butt-002817227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tayyeb-butt-002817227/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tayyab.shahzad.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tayyab.shahzad.75641" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tayy.ab_butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tayy.ab_butt/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tayyeb583/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tayyeb583/videos" height="30" width="40" /></a>
-<a href="https://medium.com/@tayyebbutt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"alt="" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabbutt1133&show_icons=true&locale=en&layout=compact" alt="tayyabbutt1133" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabbutt1133&show_icons=true&locale=en" alt="tayyabbutt1133" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabbutt1133&" alt="tayyabbutt1133" /></p>
+Contributing value to communities is a core part of my journey. I enjoy engaging with people, socializing, and building connections. If you share similar interests or have ideas to exchange in this exciting intersection of tech, business, and community, let's connect and make things happen! 🚀
