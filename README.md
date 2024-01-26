@@ -1,5 +1,5 @@
-Hello! Let's have a quick intro of mine: 
-I'm Tayyeb Shahzad, currently immersed in my Bachelor's in Computer Science,Crafting Digital Experiences, Tech Enthusiast, Software Engineer, AI & Emerging Technologies Explorer, DevOps, Blockchain, Web3.0, "Entrepreneurial Visionary"💡, "Digital Nomad in Making"✈️
+Hello! Let's have a quick intro of mine:
+I'm Tayyeb Shahzad, currently immersed in my Bachelor's in Computer Science, Crafting Digital Experiences, Tech Enthusiast, Software Engineer, AI & Emerging Technologies Explorer, DevOps, Blockchain, Web3.0, "Entrepreneurial Visionary"💡, "Digital Nomad in Making"✈️
 
 Beyond the lines of code, I'm equally fascinated by the intricacies of business operations, especially in the startup realm. Unraveling the world of investments, assets, and the financial side of things intrigues me.
 
