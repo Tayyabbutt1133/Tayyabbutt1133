@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dY3rpSmIsc_27RziafZrh_aoAXXx2CjH/view?usp=sharing](https://drive.google.com/file/d/1dY3rpSmIsc_27RziafZrh_aoAXXx2CjH/view?usp=sharing)
 
-- ⚡ Fun fact **I always think that I am doing it the right way, but then I came to know that many people thinks the**
+- ⚡ Fun fact **I always think that I am doing it the right way, but then I came to know that many people thinks in that way and there is nothing unique.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
