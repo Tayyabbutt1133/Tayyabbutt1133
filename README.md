@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Javascript & ReactJS**
+- 🌱 I’m currently learning **Javascript,TypeScript & ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://tayyebdevs.vercel.app/](https://tayyebdevs.vercel.app/)
 
