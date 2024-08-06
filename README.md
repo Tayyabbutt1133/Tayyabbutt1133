@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyeb butt</h1>
-<h3 align="center">Incoming Software Engineer | Computer Science Undergrad student | Learning to Build Smart Digital Products/Software's | Automating Businesses with Technology💻</h3>
+<h3 align="center">Software Engineer | Computer Science Undergrad student | Learning to Build Smart Digital Products/Software's | Automating Businesses with Technology💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
