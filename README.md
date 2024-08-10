@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabbutt1133" alt="tayyabbutt1133" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Final Year Project : AI Mock Interview SaaS Application**
 
 - 🌱 Languages I’m currently learning **Javascript, TypeScript**
   
