@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 Languages I’m currently learning **Javascript,TypeScript**
+- 🌱 Languages I’m currently learning **Javascript, TypeScript**
   
-- 🌱 FrameWorks I’m currently learning **React JS,Next JS,Django**
+- 🌱 FrameWorks I’m currently Working on **React JS, Next JS, Django**
 
 - 👨‍💻 All of my projects are available at [https://tayyebdevs.vercel.app/](https://tayyebdevs.vercel.app/)
 
