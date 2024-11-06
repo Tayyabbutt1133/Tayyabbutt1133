@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dY3rpSmIsc_27RziafZrh_aoAXXx2CjH/view?usp=sharing](https://drive.google.com/file/d/1dY3rpSmIsc_27RziafZrh_aoAXXx2CjH/view?usp=sharing)
 
-- ⚡ Fun fact **I used to think my approach was unique, but then I realized that many people feel the same. There’s rarely anything entirely new—it’s how you implement ideas that truly sets you apart from others.**
+- ⚡ Fun fact : **I used to think my approach was unique, but then I realized that many people feel the same. There’s rarely anything entirely new—it’s how you implement ideas that truly sets you apart from others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
