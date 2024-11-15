@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tayyeb butt</h1>
-<h3 align="center">Software Engineer | Computer Science Undergrad student | Learning to Build Smart Digital Products/Software's | Automating Businesses with Technology💻</h3>
+<h3 align="center">Building @TechDeck | Software Engineer | Automating Businesses with AI/ML Tech | Gen AI | NLP/RAG | Community Contributor @Web3 Pak | Blockchain | Crypto ₿
+💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabbutt1133" alt="tayyabbutt1133" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Project : AI Mock Interview SaaS Application**
+- 🔭 I’m currently working on **Product : SumSmart AI**
 
-- 🌱 Languages I’m currently learning **Javascript, TypeScript**
+- 🌱 Languages I’m currently learning **Javascript, TypeScript, Python**
   
-- 🌱 FrameWorks I’m currently Working on **React JS, Next JS, Django**
+- 🌱 FrameWorks I’m currently Working on **React JS, Next JS**
 
 - 👨‍💻 All of my projects are available at [https://tayyebdevs.vercel.app/](https://tayyebdevs.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@tayyebbutt1](https://medium.com/@tayyebbutt1)
+
+- Growing my Tech/Business Media Blog, have a look at https://teckdeck.substack.com/
 
 - 📫 How to reach me **tayyebshahzad12@gmail.com**
 
