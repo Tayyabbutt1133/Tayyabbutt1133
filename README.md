@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyeb butt</h1>
-<h3 align="center">Software Engineer | Automating Businesses with AI/ML Tech | Gen AI | NLP/RAG | Community Contributor @Web3 Pak | Blockchain | Crypto ₿
+<h3 align="center">Software Engineer | ReactJS | Python | Generative AI | Engineering AI Solutions | LLMs | AI Agents | Automating Industries | xIntern @10Pearls
 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
