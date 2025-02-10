@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabbutt1133" alt="tayyabbutt1133" /></a> </p>
 
-- 🔭 I’m currently working on **Product : SumSmart AI**
 
-- 🌱 Languages I’m currently learning **Javascript, TypeScript, Python**
+- 🌱 Languages I’m currently learning **Generative AI & it's Use-Cases**
   
-- 🌱 FrameWorks I’m currently Working on **React JS, Next JS**
+- 🌱 FrameWorks I’m currently Working on **React JS, Next JS, Python**
 
 - 👨‍💻 All of my projects are available at [https://tayyebdevs.vercel.app/](https://tayyebdevs.vercel.app/)
 
