@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyeb butt</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Javascript | Typescript | ReactJS | Nodejs | Nextjs | Generative AI | AI Agents | AI Integrations | xIntern @10Pearls
+<h3 align="center">Software Engineer at Esoft Ideas | AI MVP Builder @SumSmartai | React | React Native | Nextjs | Python | Django
 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
