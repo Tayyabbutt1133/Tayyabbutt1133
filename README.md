@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tayyeb butt</h1>
-<h3 align="center">Software Engineer at Esoft Ideas | AI MVP Builder @SumSmartai | React | React Native | Nextjs | Python | Django
-💻</h3>
+<h3 align="center">Software Engineer - React | Nextjs | Go | Python | Generative AI💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabbutt1133&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabbutt1133" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabbutt1133" alt="tayyabbutt1133" /></a> </p>
 
-
-- 🌱 I’m currently learning **Generative AI & it's Use-Cases**
-  
-- 🌱 I’m currently Working on **React JS, Next JS, Python**
 
 - 👨‍💻 All of my projects are available at [https://tayyebdevs.vercel.app/](https://tayyebdevs.vercel.app/)
 
